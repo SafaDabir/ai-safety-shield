@@ -1,5 +1,4 @@
-HEAD
-#🛡️ ShieldAI – Digital Safety Companion
+🛡️ ShieldAI – Digital Safety Companion
 📌 Overview
 
 ShieldAI is a real-time AI-powered web application designed to detect harmful, threatening, or manipulative messages. It helps users stay safe online by analyzing text and providing clear explanations and guidance.
